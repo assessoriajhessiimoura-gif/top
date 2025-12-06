@@ -29,7 +29,7 @@ const services = [
   {
     name: 'Mega Volume',
     price: 'R$ 220,00',
-    image: '/whatsapp_image_2025-11-29_at_20.21.39.jpeg',
+    image: 'whatsapp_image_2025-11-29_at_20.21.39.jpeg',
   },
 ];
 
