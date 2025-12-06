@@ -1,36 +1,20 @@
 import { Sparkles } from 'lucide-react';
 
+// IMPORTANDO AS IMAGENS CORRETAMENTE
+import img1 from '../assets/whatsapp_image_2025-11-29_at_20.21.37.jpeg';
+import img2 from '../assets/whatsapp_image_2025-11-29_at_20.21.38.jpeg';
+import img3 from '../assets/whatsapp_image_2025-11-29_at_20.21.38_(1).jpeg';
+import img4 from '../assets/whatsapp_image_2025-11-29_at_20.21.38_(2).jpeg';
+import img5 from '../assets/whatsapp_image_2025-11-29_at_20.21.39_(1).jpeg';
+import img6 from '../assets/whatsapp_image_2025-11-29_at_20.21.39.jpeg';
+
 const services = [
-  {
-    name: 'Volume Brasileiro',
-    price: 'R$ 165,00',
-    image: 'whatsapp_image_2025-11-29_at_20.21.37.jpeg',
-  },
-  {
-    name: 'Volume Fox',
-    price: 'R$ 165,00',
-    image: 'whatsapp_image_2025-11-29_at_20.21.38.jpeg',
-  },
-  {
-    name: 'Volume Fox Marrom',
-    price: 'R$ 165,00',
-    image: 'whatsapp_image_2025-11-29_at_20.21.38_(1).jpeg',
-  },
-  {
-    name: 'Volume Europeu',
-    price: 'R$ 165,00',
-    image: 'whatsapp_image_2025-11-29_at_20.21.38_(2).jpeg',
-  },
-  {
-    name: 'Mega Volume',
-    price: 'R$ 220,00',
-    image: 'whatsapp_image_2025-11-29_at_20.21.39_(1).jpeg',
-  },
-  {
-    name: 'Mega Volume',
-    price: 'R$ 220,00',
-    image: 'whatsapp_image_2025-11-29_at_20.21.39.jpeg',
-  },
+  { name: 'Volume Brasileiro', price: 'R$ 165,00', image: img1 },
+  { name: 'Volume Fox', price: 'R$ 165,00', image: img2 },
+  { name: 'Volume Fox Marrom', price: 'R$ 165,00', image: img3 },
+  { name: 'Volume Europeu', price: 'R$ 165,00', image: img4 },
+  { name: 'Mega Volume', price: 'R$ 220,00', image: img5 },
+  { name: 'Mega Volume', price: 'R$ 220,00', image: img6 },
 ];
 
 export default function Services() {
