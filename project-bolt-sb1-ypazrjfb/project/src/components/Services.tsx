@@ -9,7 +9,7 @@ const services = [
   {
     name: 'Volume Fox',
     price: 'R$ 165,00',
-    image: '/whatsapp_image_2025-11-29_at_20.21.39.jpeg',
+    image: 'whatsapp_image_2025-11-29_at_20.21.38.jpeg',
   },
   {
     name: 'Volume Fox Marrom',
