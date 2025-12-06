@@ -46,7 +46,7 @@ export default function Maintenance() {
           <div className="group bg-gradient-to-br from-white to-stone-50 rounded-2xl overflow-hidden shadow-xl hover:shadow-2xl transition-all duration-300 hover:-translate-y-2 cursor-pointer animate-swing">
             <div className="relative overflow-hidden aspect-square">
               <img
-                src="/whatsapp_image_2025-11-29_at_21.16.18.jpeg"
+                src="whatsapp_image_2025-12-06_at_18.44.56.jpeg"
                 alt="Manutenção Mega Volume"
                 className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
               />
